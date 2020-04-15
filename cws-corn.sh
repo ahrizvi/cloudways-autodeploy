@@ -1,0 +1,1 @@
+curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' --header 'Accept: application/json' --header 'Authorization: Bearer dij54KFBKornyGmwERnxS9waoLshtteTjhxez5Kv' -d 'server_id=392480&service=nginx&state=restart' 'https://api.cloudways.com/api/v1/service/state'
